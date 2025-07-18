@@ -1,0 +1,11 @@
+// to concade or to add the output after the sentence
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args)
+	{
+		Scanner sc=new Scanner(System.in);
+		String a=sc.nextLine();
+		System.out.print("Welcome "+a);
+	}
+}
